@@ -7,7 +7,7 @@
 .container{
     display: flex;
     flex-flow: row;
-    justify-content: right;
+    justify-content: center;
     /* align-items: center; alinha os itens no centro */
 }
 
@@ -25,7 +25,7 @@
 }
 
 #menu li a:hover{
-    color: brown;
+    color: rgb(78, 78, 78);
 }
 
 #menu{
@@ -45,8 +45,8 @@
 .tmlg{
     width: 30px;
     padding: 5px;
-
 }
+
 /* Estilos da página contato.html*/
 
 /* Estilos da página portfolio.html */
