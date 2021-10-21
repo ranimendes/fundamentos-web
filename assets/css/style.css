@@ -1,0 +1,53 @@
+/* Estilos da página index.html*/
+.center{
+    text-align: center;
+    padding: 30px;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: right;
+    /* align-items: center; alinha os itens no centro */
+}
+
+#menu li{
+    display: inline;
+    padding: 30px;
+}
+
+#menu li a{
+    text-align;
+    text-decoration: none;
+    color: black;
+    font-size: 20px ;
+
+}
+
+#menu li a:hover{
+    color: brown;
+}
+
+#menu{
+    text-align: center;
+}
+
+.ftrani{
+    width: 295px ;
+}
+
+.vdin{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+.tmlg{
+    width: 30px;
+    padding: 5px;
+
+}
+/* Estilos da página contato.html*/
+
+/* Estilos da página portfolio.html */
+
